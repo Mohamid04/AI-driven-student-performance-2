@@ -1,0 +1,15 @@
+student_id,name,email,branch,roll_no,maths,science,english,total,attendance,activities,image_url
+1,Arjun,arjun@gmail.com,Computer Science,CS001,85,75,90,250,92,Debate Club;Sports,https://i.pravatar.cc/150?img=1
+2,Meena,meena@gmail.com,Electronics,EC002,70,60,80,210,88,Coding Club;Robotics,https://i.pravatar.cc/150?img=2
+3,Ravi,ravi@gmail.com,Mechanical,ME003,50,40,60,150,75,Sports;Music,https://i.pravatar.cc/150?img=3
+4,Priya,priya@gmail.com,Computer Science,CS004,92,88,95,275,95,Debate Club;Science Club,https://i.pravatar.cc/150?img=4
+5,Vikram,vikram@gmail.com,Electronics,EC005,78,72,85,235,90,Robotics;Sports,https://i.pravatar.cc/150?img=5
+6,Anjali,anjali@gmail.com,Civil,CE006,65,55,70,190,82,Art Club;Music,https://i.pravatar.cc/150?img=6
+7,Rohan,rohan@gmail.com,Computer Science,CS007,88,82,90,260,93,Coding Club;Debate Club,https://i.pravatar.cc/150?img=7
+8,Neha,neha@gmail.com,Mechanical,ME008,72,68,75,215,87,Science Club;Sports,https://i.pravatar.cc/150?img=8
+9,Aditya,aditya@gmail.com,Electronics,EC009,95,90,92,277,96,Robotics;Coding Club,https://i.pravatar.cc/150?img=9
+10,Divya,divya@gmail.com,Civil,CE010,60,50,65,175,80,Art Club;Debate Club,https://i.pravatar.cc/150?img=10
+11,Mohamid,mohamid@gmail.com,Computer Science,1230432399,95,95,99,299,98,Coding Club;Science Club,https://genzod.in/wp-content/uploads/2025/05/Untitled-design-3.webp
+12,Nadim,nadim@gmail.com,Computer Science,123043222,55,45,44,150,78,Sports;Music,https://i.pravatar.cc/150?img=12
+13,Hitesh,hitesh@gmail.com,Mechanical,1230432333,0,10,15,50,60,Art Club,https://media.licdn.com/dms/image/v2/D4D03AQH8HonhIBrt5A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725971073755?e=1764201600&v=beta&t=pwQ0M4ZNByEYbdWrTJKnW9KXk8tWv5BR9Eh46zRkIYA
+14,Nadim Khan,nadimkhan@gmail.com,Computer Science,12304635,50,85,98,250,85,Debate Club;Coding Club,https://genzod.in/wp-content/uploads/2025/05/Untitled-design-6.webp
